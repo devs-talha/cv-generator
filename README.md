@@ -63,12 +63,9 @@ To run the CV Generator locally, follow these steps:
 
 Here's a video walkthrough of the CV Generator project:
 
-[![Watch the video](https://img.youtube.com/vi/UoJbfMjCcT4/default.jpg)](https://youtu.be/UoJbfMjCcT4)
+[![Watch the video](https://img.youtube.com/vi/UoJbfMjCcT4/maxresdefault.jpg)](https://youtu.be/UoJbfMjCcT4)
 
 Click the image above or [click here](https://youtu.be/UoJbfMjCcT4) to watch the video on YouTube.
-
-
-This approach makes it easy for viewers to see the video directly from your repository's README.
 
 ## Sample CV
 
